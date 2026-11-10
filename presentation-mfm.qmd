@@ -1,0 +1,423 @@
+---
+pagetitle: "Processos de validação em geometria — VIII ENAPHEM"
+lang: pt-BR
+html-math-method: plain
+format:
+  revealjs:
+    theme: [white, www/css/style.scss]
+    width: 1280
+    height: 720
+    margin: 0.08
+    center: false
+    slide-number: false
+    progress: false
+    transition: none
+    background-transition: none
+    embed-resources: true
+---
+
+::: {.cover}
+
+![](www/img/logo-8enaphem.jpeg){.event-logo fig-alt="VIII ENAPHEM"}
+
+::: {.title-block}
+[Validação em geometria nos anos finais do ensino secundário]{.title}
+
+[Estudo comparativo São Paulo e Espanha (1960–1979)]{.subtitle}
+:::
+
+::: {.cover-footer}
+
+::: {.authors}
+[Marina Fuzaro Magossi]{.name}
+Orientadora: Profª Drª Maria Célia Leme da Silva
+:::
+
+::: {.logos}
+![](www/img/logo-gepge.jpeg){fig-alt="GEPGE"}
+![](www/img/logo-ppgem.jpeg){fig-alt="PPGEM"}
+:::
+
+:::
+
+:::
+
+## Formação e trajetória
+
+::: {.incremental}
+- Licenciatura e Bacharelado em Matemática (UNESP/Rio Claro)
+- Mestrado em Matemática - Análise (UNESP/Rio Claro)
+- Licenciatura em Pedagogia (UNIVESP)
+- Leciono desde 2023
+:::
+
+## Atualmente
+
+::: {.incremental}
+- Doutoranda em Ed. Matemática (PPGEM - UNESP/Rio Claro) - 2027
+- GEPGE - Setembro de 2026
+- “Processos de argumentação e validação na geometria escolar: permanências e rupturas na segunda metade do século XX”
+:::
+
+## Validar é mais do que demonstrar
+
+::: {.incremental}
+- Processo de validação
+:::
+
+::: {.fragment}
+> “múltiplas formas de justificar, explicar, argumentar ou sustentar propriedades e conceitos geométricos”
+> [Leme da Silva (2026)]{.source}
+:::
+
+## Dois nomes para um mesmo segmento
+
+:::: {.columns}
+
+::: {.column .box .fragment}
+### Brasil {.fragment}
+
+::: {.incremental}
+- O colegial
+:::
+:::
+
+::: {.column .box .fragment}
+### Espanha {.fragment}
+
+::: {.incremental}
+- O Bachillerato Superior
+:::
+:::
+
+::::
+
+## O Movimento da Matemática Moderna
+
+::::: {.columns}
+
+:::: {.column}
+
+::: {.box .fragment}
+
+::: {.fragment}
+> Tentativa de reformar o ensino de matemática [através da lógica, dos conjuntos e das estruturas algébricas]{.fragment .highlight}
+> [Leme da Silva, Jahn e Carvalho (2026)]{.source}
+:::
+:::
+::::
+
+:::: {.column}
+
+::: {.box .fragment}
+
+::: {.incremental}
+- 1958, SMSG, Estados Unidos
+- 1959, Seminário de Royaumont
+:::
+:::
+
+::::
+
+:::::
+
+## O que fundamenta uma prova?
+
+::::: {.columns}
+
+:::: {.column}
+
+::: {.box .fragment}
+**Birkhoff:** [[Mantém]{.marker} a [geometria euclidiana]{.marker}]{.fragment .highlight-group}, mas muda a base das provas
+[Leme da Silva e Jahn (2026)]{.source}
+:::
+
+::::
+
+:::: {.column}
+
+::: {.box .fragment}
+**Klein:** [Substitui a geometria euclidiana]{.fragment .highlight} como base das provas
+[Leme da Silva e Jahn (2026)]{.source}
+:::
+
+::::
+
+:::::
+
+## Movimento internacional, apropriações distintas
+
+::: {.fragment}
+> “pouca ou nenhuma importância é dada às questões nacionais, locais e regionais do ensino de matemática”
+> [Valente (2012)]{.source}
+:::
+
+::::: {.columns}
+
+:::: {.column}
+
+::: {.box .fragment}
+### São Paulo {.fragment}
+
+::: {.incremental}
+- Vanguarda de implementação
+- Liderança do GEEM: Sugestão dos "Assuntos mínimos"
+:::
+:::
+
+::::
+
+:::: {.column}
+
+::: {.box .fragment}
+### Espanha {.fragment}
+
+::: {.incremental}
+- Comissão oficial estuda a modernização
+- Mudanças oficiais lentas e pontuais
+:::
+:::
+
+::::
+
+:::::
+
+## Linha do tempo
+
+::: {.timeline}
+
+::: {.timeline-head}
+[São Paulo / Brasil]{.left}
+[]{.year}
+[Espanha]{.right}
+:::
+
+::: {.timeline-row .fragment}
+[Portaria 1.045 fixa os programas mínimos do colegial, em vigor até 1971]{.left}
+[1951]{.year}
+[]{.right}
+:::
+
+::: {.timeline-row .fragment}
+[]{.left}
+[1957]{.year}
+[Cuestionarios do plano de 1957, em vigor até 1975]{.right}
+:::
+
+::: {.timeline-row .fragment}
+[LDB 4.024 dá autonomia curricular aos estados]{.left}
+[1961]{.year}
+[Reunión de Catedráticos de Matemáticas]{.right}
+:::
+
+::: {.timeline-row .fragment}
+[GEEM propõe os "Assuntos mínimos"]{.left}
+[1962]{.year}
+[Experiência-piloto no Bachillerato Superior, [nunca oficializada]{.fragment .highlight}]{.right}
+:::
+
+::: {.timeline-row .fragment}
+[Livros de matemática moderna no [início do ginasial]{.fragment .highlight}]{.left}
+[1964]{.year}
+[]{.right}
+:::
+
+::: {.timeline-row .fragment}
+[Secretaria da Educação publica as "Sugestões para um roteiro de programa"]{.left}
+[1965]{.year}
+[]{.right}
+:::
+
+::: {.timeline-row .fragment}
+[]{.left}
+[1967]{.year}
+[Primeira mudança efetiva: Bachillerato Elemental]{.right}
+:::
+
+::: {.timeline-row .fragment}
+[]{.left}
+[1975]{.year}
+[Programa do novo Bachillerato]{.right}
+:::
+
+:::
+
+## Nos estudos levantados, falta a validação no fim do secundário
+
+::::: {.columns .literature}
+
+:::: {.column}
+
+::: {.box .fragment}
+### Brasil {.fragment}
+
+::: {.incremental}
+- Carvalho (2022): a geometria nos livros do ensino médio, 1930–2010
+- Leme da Silva (2008): as séries finais do secundário no Brasil e em Portugal
+- Leme da Silva (2026): as provas em duas colunas no Brasil
+- Silva, Gomes e Silva (2021): mapeamento das pesquisas, só duas das onze dissertações no segundo ciclo
+:::
+:::
+
+::::
+
+:::: {.column}
+
+::: {.box .fragment}
+### Espanha {.fragment}
+
+::: {.incremental}
+- Ausejo (2010, 2013): a organização dos programas e dos conteúdos
+- González Astudillo (2008): o debate profissional no ensino primário
+- Ruiz de Gauna Gorostiza *et al.* (2013): livros do Bachillerato a partir de 1970, fora do enquadramento histórico
+:::
+:::
+
+::::
+
+:::::
+
+## Como os processos de validação em geometria se configuraram e se modificaram no fim do secundário, em São Paulo e na Espanha (1960–1979)? {.question}
+
+::: {.incremental}
+1. Caracterizar a geometria do MMM e seus modos de validação
+2. Identificar a validação prescrita nas normativas
+3. Caracterizar a validação nos livros didáticos
+4. Confrontar normativas e livros
+5. Interpretar as diferenças como apropriações distintas
+:::
+
+## O que se prescreve e o que os livros propõem
+
+::::: {.columns}
+
+:::: {.column}
+
+::: {.box .fragment}
+### São Paulo {.fragment}
+
+::: {.incremental}
+- **Documentos:** federais e paulistas, 1951–1977
+- **Livros didáticos:** acervos digitalizados do GEPGE, do GHEMAT e da UFSC
+:::
+:::
+
+::::
+
+:::: {.column}
+
+::: {.box .fragment}
+### Espanha {.fragment}
+
+::: {.incremental}
+- **Documentos:** oficiais, 1957 e 1975, e textos-piloto
+- **Livros didáticos:** acervos físicos e dispersos no MANES, no CEME e no CEINCE
+:::
+:::
+
+::::
+
+:::::
+
+## A validação é lida em cinco aspectos {.analysis}
+
+::: {.incremental}
+1. A base da validação: axiomas, figura, medidas, estruturas algébricas ou vetoriais
+2. O modo de introduzir o raciocínio dedutivo
+3. As formas de prova: prosa, duas colunas, provas analíticas ou vetoriais
+4. O vocabulário das fontes
+5. O tipo e a quantidade das tarefas de validação
+:::
+
+[Categorias adaptadas de Leme da Silva, Jahn e Carvalho (2026)]{.source .fragment}
+
+## A validação como produção de uma cultura escolar
+
+:::: {.cards}
+
+::: {.box .card .fragment}
+[Chartier]{.card-author}
+Representação e apropriação
+:::
+
+::: {.box .card .fragment}
+[Julia]{.card-author}
+A cultura escolar como normas e práticas
+:::
+
+::: {.box .card .fragment}
+[Munakata]{.card-author}
+O livro didático como indício da cultura escolar
+:::
+
+::: {.box .card .fragment}
+[Matasci]{.card-author}
+Transferências culturais: autores e professores como mediadores
+:::
+
+::: {.box .card .fragment}
+[Valente]{.card-author}
+A comparação como produção de conhecimento histórico
+:::
+
+::::
+
+## O levantamento inicial está feito
+
+::::: {.columns}
+
+:::: {.column}
+
+::: {.box .fragment}
+### Feito {.fragment}
+
+::: {.incremental}
+- Levantamento inicial dos documentos dos dois casos
+- Identificação dos acervos espanhóis
+- Primeira caracterização do debate sobre validação no MMM
+:::
+:::
+
+::::
+
+:::: {.column}
+
+::: {.box .fragment}
+### A fazer {.fragment}
+
+::: {.incremental}
+- Estudo teórico da história cultural
+- Identificação dos autores e dos contextos de produção
+- Seleção dos livros e obtenção dos exemplares
+:::
+:::
+
+::::
+
+:::::
+
+---
+
+::: {.cover .closing}
+
+![](www/img/logo-8enaphem.jpeg){.event-logo fig-alt="VIII ENAPHEM"}
+
+::: {.title-block}
+[Obrigada!]{.title}
+:::
+
+::: {.cover-footer}
+
+::: {.authors}
+[Marina Fuzaro Magossi [marina.fuzaro@unesp.br]{.email}]{.name}
+Orientadora: Profª Drª Maria Célia Leme da Silva
+:::
+
+::: {.logos}
+![](www/img/logo-gepge.jpeg){fig-alt="GEPGE"}
+![](www/img/logo-ppgem.jpeg){fig-alt="PPGEM"}
+:::
+
+:::
+
+:::
