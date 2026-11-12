@@ -59,6 +59,47 @@ Orientadora: Profª Drª Maria Célia Leme da Silva
 - “Processos de argumentação e validação na geometria escolar: permanências e rupturas na segunda metade do século XX”
 :::
 
+## Contexto histórico: O Movimento da Matemática Moderna
+
+::::: {.columns}
+
+:::: {.column}
+
+::: {.fragment}
+> Tentativa de reformar o ensino de matemática [através da lógica, dos conjuntos e das estruturas algébricas]{.fragment .highlight}
+> [Leme da Silva, Jahn e Carvalho (2026)]{.source}
+:::
+::::
+
+:::: {.column}
+
+::: {.incremental}
+- 1958, SMSG, Estados Unidos
+- 1959, Seminário de Royaumont
+:::
+
+::::
+
+:::::
+
+## O recorte da pesquisa
+
+::: {.fragment fragment-index=1}
+- Validação em Geometria
+:::
+
+::: {.fragment fragment-index=2}
+- Décadas de 1960 e 1970
+:::
+
+::: {.fragment fragment-index=3}
+- ["Ensino médio"]{.fragment .strike fragment-index=5} [Anos finais do ensino secundário]{.fragment fragment-index=5}
+:::
+
+::: {.fragment fragment-index=4}
+- São Paulo e Espanha
+:::
+
 ## Validar é mais do que demonstrar
 
 ::: {.incremental}
@@ -70,65 +111,14 @@ Orientadora: Profª Drª Maria Célia Leme da Silva
 > [Leme da Silva (2026)]{.source}
 :::
 
-## Dois nomes para um mesmo segmento
-
-:::: {.columns}
-
-::: {.column .box .fragment}
-### Brasil {.fragment}
-
-::: {.incremental}
-- O colegial
-:::
-:::
-
-::: {.column .box .fragment}
-### Espanha {.fragment}
-
-::: {.incremental}
-- O Bachillerato Superior
-:::
-:::
-
-::::
-
-## O Movimento da Matemática Moderna
-
-::::: {.columns}
-
-:::: {.column}
-
-::: {.box .fragment}
-
-::: {.fragment}
-> Tentativa de reformar o ensino de matemática [através da lógica, dos conjuntos e das estruturas algébricas]{.fragment .highlight}
-> [Leme da Silva, Jahn e Carvalho (2026)]{.source}
-:::
-:::
-::::
-
-:::: {.column}
-
-::: {.box .fragment}
-
-::: {.incremental}
-- 1958, SMSG, Estados Unidos
-- 1959, Seminário de Royaumont
-:::
-:::
-
-::::
-
-:::::
-
 ## O que fundamenta uma prova?
 
 ::::: {.columns}
 
 :::: {.column}
 
-::: {.box .fragment}
-**Birkhoff:** [[Mantém]{.marker} a [geometria euclidiana]{.marker}]{.fragment .highlight-group}, mas muda a base das provas
+::: {.fragment}
+**Birkhoff:** [Mantém a geometria euclidiana]{.fragment .highlight} com os axiomas reformulados por Hilbert
 [Leme da Silva e Jahn (2026)]{.source}
 :::
 
@@ -136,14 +126,17 @@ Orientadora: Profª Drª Maria Célia Leme da Silva
 
 :::: {.column}
 
-::: {.box .fragment}
-**Klein:** [Substitui a geometria euclidiana]{.fragment .highlight} como base das provas
+::: {.fragment}
+**Klein:** [Substitui a geometria euclidiana]{.fragment .highlight} pelas Transformações Geométricas como base das provas
 [Leme da Silva e Jahn (2026)]{.source}
 :::
 
 ::::
 
 :::::
+
+::: {.fragment}
+:::
 
 ## Movimento internacional, apropriações distintas
 
@@ -156,121 +149,63 @@ Orientadora: Profª Drª Maria Célia Leme da Silva
 
 :::: {.column}
 
-::: {.box .fragment}
-### São Paulo {.fragment}
+
+### Brasil (São Paulo) {.fragment}
 
 ::: {.incremental}
 - Vanguarda de implementação
 - Liderança do GEEM: Sugestão dos "Assuntos mínimos"
 :::
-:::
+
 
 ::::
 
 :::: {.column}
 
-::: {.box .fragment}
+
 ### Espanha {.fragment}
 
 ::: {.incremental}
 - Comissão oficial estuda a modernização
 - Mudanças oficiais lentas e pontuais
 :::
-:::
 
 ::::
 
 :::::
 
-## Linha do tempo
-
-::: {.timeline}
-
-::: {.timeline-head}
-[São Paulo / Brasil]{.left}
-[]{.year}
-[Espanha]{.right}
-:::
-
-::: {.timeline-row .fragment}
-[Portaria 1.045 fixa os programas mínimos do colegial, em vigor até 1971]{.left}
-[1951]{.year}
-[]{.right}
-:::
-
-::: {.timeline-row .fragment}
-[]{.left}
-[1957]{.year}
-[Cuestionarios do plano de 1957, em vigor até 1975]{.right}
-:::
-
-::: {.timeline-row .fragment}
-[LDB 4.024 dá autonomia curricular aos estados]{.left}
-[1961]{.year}
-[Reunión de Catedráticos de Matemáticas]{.right}
-:::
-
-::: {.timeline-row .fragment}
-[GEEM propõe os "Assuntos mínimos"]{.left}
-[1962]{.year}
-[Experiência-piloto no Bachillerato Superior, [nunca oficializada]{.fragment .highlight}]{.right}
-:::
-
-::: {.timeline-row .fragment}
-[Livros de matemática moderna no [início do ginasial]{.fragment .highlight}]{.left}
-[1964]{.year}
-[]{.right}
-:::
-
-::: {.timeline-row .fragment}
-[Secretaria da Educação publica as "Sugestões para um roteiro de programa"]{.left}
-[1965]{.year}
-[]{.right}
-:::
-
-::: {.timeline-row .fragment}
-[]{.left}
-[1967]{.year}
-[Primeira mudança efetiva: Bachillerato Elemental]{.right}
-:::
-
-::: {.timeline-row .fragment}
-[]{.left}
-[1975]{.year}
-[Programa do novo Bachillerato]{.right}
-:::
-
-:::
-
-## Nos estudos levantados, falta a validação no fim do secundário
+## Lacuna: a validação no fim do secundário não aparece como foco
 
 ::::: {.columns .literature}
 
 :::: {.column}
 
-::: {.box .fragment}
 ### Brasil {.fragment}
 
 ::: {.incremental}
-- Carvalho (2022): a geometria nos livros do ensino médio, 1930–2010
-- Leme da Silva (2008): as séries finais do secundário no Brasil e em Portugal
-- Leme da Silva (2026): as provas em duas colunas no Brasil
-- Silva, Gomes e Silva (2021): mapeamento das pesquisas, só duas das onze dissertações no segundo ciclo
-:::
+- Panorama sobre a geometria nos livros do ensino médio, 1930–2010
+[Carvalho (2022)]{.source}
+- Séries finais do secundário no Brasil e em Portugal
+[Leme da Silva (2008)]{.source}
+- Provas em duas colunas no Brasil
+[Leme da Silva (2026)]{.source}
+- Mapeamento das pesquisas; só duas das onze dissertações falam do segundo ciclo
+[Silva, Gomes e Silva (2021)]{.source}
 :::
 
 ::::
 
 :::: {.column}
 
-::: {.box .fragment}
 ### Espanha {.fragment}
 
 ::: {.incremental}
-- Ausejo (2010, 2013): a organização dos programas e dos conteúdos
-- González Astudillo (2008): o debate profissional no ensino primário
-- Ruiz de Gauna Gorostiza *et al.* (2013): livros do Bachillerato a partir de 1970, fora do enquadramento histórico
-:::
+- Organização dos programas e dos conteúdos
+[Ausejo (2011, 2013)]{.source}
+- Debate profissional no ensino primário
+[González Astudillo (2008)]{.source}
+- Livros do Bachillerato a partir de 1970 sob uma ótica didática
+[Ruiz de Gauna Gorostiza *et al.* (2013)]{.source}
 :::
 
 ::::
@@ -287,39 +222,7 @@ Orientadora: Profª Drª Maria Célia Leme da Silva
 5. Interpretar as diferenças como apropriações distintas
 :::
 
-## O que se prescreve e o que os livros propõem
-
-::::: {.columns}
-
-:::: {.column}
-
-::: {.box .fragment}
-### São Paulo {.fragment}
-
-::: {.incremental}
-- **Documentos:** federais e paulistas, 1951–1977
-- **Livros didáticos:** acervos digitalizados do GEPGE, do GHEMAT e da UFSC
-:::
-:::
-
-::::
-
-:::: {.column}
-
-::: {.box .fragment}
-### Espanha {.fragment}
-
-::: {.incremental}
-- **Documentos:** oficiais, 1957 e 1975, e textos-piloto
-- **Livros didáticos:** acervos físicos e dispersos no MANES, no CEME e no CEINCE
-:::
-:::
-
-::::
-
-:::::
-
-## A validação é lida em cinco aspectos {.analysis}
+## Análise dos resultados: A validação é lida em cinco aspectos {.analysis}
 
 ::: {.incremental}
 1. A base da validação: axiomas, figura, medidas, estruturas algébricas ou vetoriais
@@ -331,58 +234,55 @@ Orientadora: Profª Drª Maria Célia Leme da Silva
 
 [Categorias adaptadas de Leme da Silva, Jahn e Carvalho (2026)]{.source .fragment}
 
-## A validação como produção de uma cultura escolar
+## Fundamentação teórica: A validação como produção de uma cultura escolar
 
 :::: {.cards}
 
 ::: {.box .card .fragment}
-[Chartier]{.card-author}
+[Chartier (1990)]{.card-author}
 Representação e apropriação
 :::
 
 ::: {.box .card .fragment}
-[Julia]{.card-author}
+[Julia (2001)]{.card-author}
 A cultura escolar como normas e práticas
 :::
 
 ::: {.box .card .fragment}
-[Munakata]{.card-author}
+[Munakata (2016)]{.card-author}
 O livro didático como indício da cultura escolar
 :::
 
 ::: {.box .card .fragment}
-[Matasci]{.card-author}
+[Matasci (2016)]{.card-author}
 Transferências culturais: autores e professores como mediadores
 :::
 
 ::: {.box .card .fragment}
-[Valente]{.card-author}
+[Valente (2012)]{.card-author}
 A comparação como produção de conhecimento histórico
 :::
 
 ::::
 
-## O levantamento inicial está feito
+## Próximos passos
 
 ::::: {.columns}
 
 :::: {.column}
 
-::: {.box .fragment}
 ### Feito {.fragment}
 
 ::: {.incremental}
 - Levantamento inicial dos documentos dos dois casos
-- Identificação dos acervos espanhóis
+- Identificação dos acervos espanhóis e paulistas
 - Primeira caracterização do debate sobre validação no MMM
-:::
 :::
 
 ::::
 
 :::: {.column}
 
-::: {.box .fragment}
 ### A fazer {.fragment}
 
 ::: {.incremental}
@@ -390,11 +290,31 @@ A comparação como produção de conhecimento histórico
 - Identificação dos autores e dos contextos de produção
 - Seleção dos livros e obtenção dos exemplares
 :::
-:::
 
 ::::
 
 :::::
+
+## Principais referências I {.literature}
+
+- AUSEJO, Elena. The introduction of "modern mathematics" in secondary education in Spain (1954–1970), The International Journal for the History of Mathematics Education, 2011.
+- AUSEJO, Elena. La introducción de la «matemática moderna» en la enseñanza no universitaria en España (1953-1970), La Gaceta de la Real Sociedad Matemática Española, 2013.
+- CARVALHO, Marizete Nink de. Geometria dos cursos complementares ao Ensino Médio: entre livros, programas, reformas e monstros – uma terapia, Tese (Doutorado em Educação Matemática), UFMS, 2022.
+- CHARTIER, Roger. A história cultural: entre práticas e representações, Difel, 1990.
+- GONZÁLEZ ASTUDILLO, María Teresa. La transición hacia la matemática moderna en España: la revista Vida Escolar, Revista Diálogo Educacional, 2008.
+- JULIA, Dominique. A cultura escolar como objeto histórico, Revista Brasileira de História da Educação, 2001.
+- LEME DA SILVA, Maria Célia. Que geometria moderna para as escolas do Brasil e de Portugal?, Revista Diálogo Educacional, 2008.
+
+## Principais referências II {.literature}
+
+- LEME DA SILVA, Maria Célia. Provas em duas colunas – um método de demonstrar teoremas em geometria: apropriações no contexto brasileiro, Revista Brasileira de História da Educação, 2026.
+- LEME DA SILVA, Maria Célia; JAHN, Ana Paula. Geometria dedutiva em debate no Movimento da Matemática Moderna, HISTEMAT – Revista de História da Educação Matemática, 2026.
+- LEME DA SILVA, Maria Célia; JAHN, Ana Paula; CARVALHO, Marizete Nink de. Processos de validação no ensino de geometria: uma análise histórica de livros didáticos no Brasil (1930-1960), RIPEM – Revista Internacional de Pesquisa em Educação Matemática, 2026.
+- MATASCI, Damiano. A França, a escola republicana e o exterior: perspectivas para uma história internacional da educação no século 19, História da Educação, 2016.
+- MUNAKATA, Kazumi. Livro didático como indício da cultura escolar, História da Educação, 2016.
+- RUIZ DE GAUNA GOROSTIZA, Josu *et al.* Los libros de texto de matemáticas del bachillerato en el periodo 1970-2005, Revista Latinoamericana de Investigación en Matemática Educativa, 2013.
+- SILVA, Sidnéia Almeida; GOMES, Larissa Pinca Sarro; SILVA, Martha Raíssa Iane Santana da. Ensino de Geometria e Movimento da Matemática Moderna: uma análise de histórias produzidas nas pesquisas acadêmicas, Tangram – Revista de Educação Matemática, 2021.
+- VALENTE, Wagner Rodrigues. Por uma história comparativa da educação matemática, Cadernos de Pesquisa, 2012.
 
 ---
 
